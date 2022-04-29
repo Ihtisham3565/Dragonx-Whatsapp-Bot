@@ -1,5 +1,5 @@
 {
-    "name": "⎝🛡️ᗪᖇ𝙰𝙶𝚘𝚗 Ӽ  🛡️⎠ WhatsApp User Bot v1.0.0",
+    "name": "⎝🛡️мαℓικ jєяяγ🛡️⎠ WhatsApp User Bot v1.0.0",
     "description": "World best Sinhala/English WhatsApp Button Bot Developer Achi Fernando Enjoy Our Bot",
     "logo": "https://telegra.ph/file/35883180004518cb15fe9.jpg",
     "keywords": ["Janith sadanuwan | PG", "Dragon x"],
@@ -20,22 +20,22 @@
         },
         "SONG_UPLOAD": {
             "description": "SONG UPLOAFING MESSAGE",
-            "value": "🖲️.  *ඔබ සෙවූ ගීතය ඔබ වෙත එවමින් ඇත....*"
+            "value": "🍁.  *𝙼𝙰𝙻𝙸𝙺𝙱𝙾𝚃 𝑼𝑷𝑳𝑶𝑫𝑰𝑵𝑮 𝒀𝑶𝑼𝑹 𝑺𝑶𝑵𝑮....*🎧"
         },
         "SONG_DOWNLOAD": {
             "description": "SONG DOWNLOADING MESSAGE",
-            "value": "🖲️.  *ඔබ සෙවූ ගීතය බාගත කරමින් ඇත....*"
+            "value": "🍁.  *𝒀𝑶𝑼𝑹 𝑺𝑶𝑵𝑮 𝑰𝑺 𝑫𝑶𝑾𝑵𝑳𝑶𝑫𝑰𝑵𝑮....🎧*"
         },
         "VIDEO_UPLOAD": {
             "description": "VIDEO UPLOADING MESSAGE",
-            "value":"🔮.  *ඔබ ඉල්ලූ  විඩීයෝව ඔබ වෙත එවමින් ඇත.*"
+            "value":"🔮.  *𝒀𝑶𝑼𝑹 𝑽𝑰𝑫𝑬𝑶 𝑰𝑺 𝑼𝑷𝑳𝑶𝑫𝑰𝑵𝑮🎯*"
         },
         "VIDEO_DOWNLOAD": {
             "description": "VIDEO DOWNLOADING MESSAGE",
-            "value":"🔮.  *ඔබ  ඉල්ලූ විඩීයෝව  බාගත කරමින් ඇත....*"
+            "value":"🔮.  *𝒀𝑶𝑼𝑹 𝑽𝑰𝑫𝑬𝑶 𝑰𝑺 𝑫𝑶𝑾𝑵𝑳𝑶𝑫𝑰𝑵𝑮🎯..*"
         },
         "TIME_ZONE": {
-            "description": "YOUR COUNTRY TIME ZONE ලන්කාවෙ අය තියන විදිහට තියන්න..",
+            "description": "YOUR COUNTRY TIME ZONE .",
             "value":"Asia/Colombo"
         },
         "SUDO": {
@@ -203,7 +203,7 @@
         "CAPTION": {
             "description": "LOGO MAKER CAPTION",
             "required": true,
-            "value": "   ▷ ᴹᴬᴰᴱ 🄱🅈 ⎝🛡ᗪᖇ𝙰𝙶𝚘𝚗 Ӽ 🛡աɦ𝐚𝐭𝐬𝐚𝐩𝐩 𝐔𝐬𝐞𝐫 𝐁𝐨𝐭⎠│"
+            "value": "   ▷ ᴹᴬᴰᴱ 🄱🅈 ⎝🛡𝑴𝑴𝑨𝑳𝑰𝑲 𝑱𝑬𝑹𝑹𝒀 🛡աɦ𝐚𝐭𝐬𝐚𝐩𝐩 𝐔𝐬𝐞𝐫 𝐁𝐨𝐭⎠│"
         },
         "COFFEEHOUSE_API_KEY": {
             "description": "Give it up. We give you this.",
